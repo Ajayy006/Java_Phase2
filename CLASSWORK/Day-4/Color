@@ -1,0 +1,9 @@
+class colours
+{
+    int id;
+    String name;
+    void method(int i, String n)
+    {
+        
+            }
+}
